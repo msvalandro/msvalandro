@@ -1,6 +1,6 @@
 # Matheus Valandro 
 
-Head of Mobile @smartex.ai.
+Software Engineer @yldio
 
 [![Instagram Badge](https://img.shields.io/badge/-@msvalandro-5f27cd?style=flat-square&labelColor=5f27cd&logo=instagram&logoColor=white&link=https://www.instagram.com/msvalandro)](https://www.instagram.com/msvalandro) 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Valandro-5f27cd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-valandro-b31a78135/)](https://www.linkedin.com/in/matheus-valandro-b31a78135/) 
